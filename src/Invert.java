@@ -1,10 +1,3 @@
-/**
- * Created with IntelliJ IDEA.
- * User: eugene
- * Date: 5/23/13
- * Time: 9:44 PM
- * To change this template use File | Settings | File Templates.
- */
 public class Invert {
 
     static void invert(int[] arr) {
